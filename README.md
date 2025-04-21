@@ -2,6 +2,9 @@ The application serves as a user event planner system. There are a few possible 
 
 
 RUNNING THE APP:
+
+run the app.py
+
      applicaation runs localy
      There are two login options:
           admin:
